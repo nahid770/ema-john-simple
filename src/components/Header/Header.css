@@ -1,0 +1,20 @@
+.logo{
+    height: 80px;
+    background-color: #1C2B35;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 140px;
+    padding-right: 140px;
+}
+.menu a{
+    font-family: 'Lato';
+    font-size: 17px;
+    margin-right: 36px;
+    color: #FFFFFF;
+    text-decoration: none;
+
+}
+.menu a:hover{
+    color: orange;
+}
